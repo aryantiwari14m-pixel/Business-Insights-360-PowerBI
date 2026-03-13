@@ -15,7 +15,8 @@ DAX: Created 50+ complex measures (YTD, PY, Margin %, etc.)
 Data Modeling: Implemented a Star Schema with 10+ tables.
 
 Key Dashboards Included
-Finance View: P&L Statement, Net Sales, and Gross Margin trends.<img width="1197" height="748" alt="image" src="https://github.com/user-attachments/assets/7c850366-89ca-47a9-984b-b0a8964c3f6e" />
+Finance View: P&L Statement, Net Sales, and Gross Margin trends.<img width="1201" height="679" alt="image" src="https://github.com/user-attachments/assets/d81bb24c-9639-4469-b490-3109bc49a487" />
+
 
 Sales View: Customer performance and market share analysis.<img width="1184" height="741" alt="image" src="https://github.com/user-attachments/assets/da0fc665-dcad-47cf-b513-c3ffd50b2252" />
 
