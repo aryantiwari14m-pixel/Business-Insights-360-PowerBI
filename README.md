@@ -18,14 +18,18 @@ Key Dashboards Included
 Finance View: P&L Statement, Net Sales, and Gross Margin trends.<img width="1201" height="679" alt="image" src="https://github.com/user-attachments/assets/d81bb24c-9639-4469-b490-3109bc49a487" />
 
 
-Sales View: Customer performance and market share analysis.<img width="1184" height="741" alt="image" src="https://github.com/user-attachments/assets/da0fc665-dcad-47cf-b513-c3ffd50b2252" />
-
-Marketing View: Product performance and regional growth.<img width="1197" height="745" alt="image" src="https://github.com/user-attachments/assets/2b4fec63-87ad-4b9a-a252-6923a5afa7c5" />
+Sales View: Customer performance and market share analysis.<img width="1202" height="681" alt="image" src="https://github.com/user-attachments/assets/66dbb538-fef0-4a91-bd51-9b4721fd8b35" />
 
 
-Supply Chain: Forecast accuracy and inventory management.<img width="1197" height="744" alt="image" src="https://github.com/user-attachments/assets/56145292-231c-4b27-9dee-be5cec4032e9" />
+Marketing View: Product performance and regional growth.<img width="1201" height="680" alt="image" src="https://github.com/user-attachments/assets/b0bcdf56-bb3d-4995-82f0-4f897053825c" />
 
-Executive View: Market Share, Top KPIs, and Revenue trends.<img width="1195" height="743" alt="image" src="https://github.com/user-attachments/assets/1339f88c-7aaf-4c1a-8652-97d245689303" />
+
+
+Supply Chain: Forecast accuracy and inventory management.<img width="1203" height="678" alt="image" src="https://github.com/user-attachments/assets/e37420cc-1d7b-449f-99fb-8f29f0903d01" />
+
+
+Executive View: Market Share, Top KPIs, and Revenue trends.<img width="1205" height="685" alt="image" src="https://github.com/user-attachments/assets/6244f349-d060-40a4-9d02-612fdea3a42d" />
+
 
 
 
